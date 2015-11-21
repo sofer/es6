@@ -4,9 +4,9 @@ ECMAScript 2015 (or ES6) is the future and it has arrived. It promises to make J
 
 There are a lot of changes, some highly significant, some less so. To get a very opinionated overview, watch Douglas Crockford's [*Better Parts* talk](https://youtu.be/bo36MrBfTk4). Then, just dive in.
 
-Start by trying an interactive session ES6 on [repl.it](https://repl.it/languages/traceur), using Ralph Engelschall's fantastic [comparison of ES5 and ES6 idioms](http://es6-features.org/).
+Start by trying an [interactive session ES6 on repl.it](https://repl.it/languages/traceur) while looking through Ralph Engelschall's fantastic [comparison of ES5 and ES6 idioms](http://es6-features.org/).
 
-To get started on Chrome, Enable Experimental JavaScript (chrome://flags/#enable-javascript-harmony) to access ES6 via the console.
+On Chrome, Enable Experimental JavaScript (chrome://flags/#enable-javascript-harmony) to access ES6 via the console.
 
 Keep track of browser compatibility using [ECMAScript compatibility table](https://kangax.github.io/compat-table/es6/).
 
