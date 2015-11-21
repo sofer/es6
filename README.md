@@ -14,6 +14,9 @@ For production code, download and use [Babel](https://babeljs.io/) to translate 
 
 The [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) has recently been updated for ES6 and is a great place to get a quick overview of best practices.
 
+### Codewars kata
+
+
 ### See also 
 [Recursive programming] | [Tail calls] | [Scoping: *let* is the new *var*] | [Arrow functions] | [Parameters: defaults, rest and spread] | [Template literals] | [Destructuring] | [Modules] | [Classes] | [Generators] | [WeakMap]
 
